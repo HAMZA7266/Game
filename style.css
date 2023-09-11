@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+.container{
+    position: relative;
+ background-repeat: no-repeat;
+ background-image: url("NW0mK39.gif.gif");
+ border: 1px solid black;
+ height: 600px;
+ background-size: cover;
+ background-position: center;
+
+  
+}
+.spider{
+position: absolute;
+
+bottom: 0;
+}
+p{
+    font-size: 1;
+}
+
+
+.bottom-image {
+    width: 100%;
+    height: auto;
+}
+.controlp1{
+    display: flex;
+    flex-direction: row;
+    margin-left: 1000px;
+margin-top: 30px;
+}
+.hidden{
+display: none;
+}
+.show{
+display: flex;
+
+}
+.display{
+   display: none; 
+position: absolute;
+}
+.display1{
+   display: none; 
+position: absolute;
+transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+.display2{
+   display: none; 
+position: absolute;
+
+}
+.display3{
+   display: none; 
+position: absolute;
+
+}
+.display4{
+   
+ position: absolute;
+ 
+ }
+.display5{
+   
+ position: absolute;
+ display: none;
+ 
+ }
+.display6{
+   
+ position: absolute;
+ display: none;
+
+ }
+.display7{
+   
+ position: absolute;
+ display: none;
+
+ }
+ #WALK2{
+    transform: scaleX(1);
+  transform: scaleX(1);
+ }
+ #kick{
+    transform: scaleX(-1);
+  transform: scaleX(-1);
+ }
+
+
+
+
+
+.iron{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    transform: scaleX(-1);
+  transform: scaleX(-1);
+    }
+.wkey{
+   background-color: black;
+   width: 55px;
+   padding: 10px;
+   height: 60px;
+   margin-top: 2px;
+   border-radius: 10px;
+   margin-left: 50px;
+ 
+}
+.tkey{
+   background-color: black;
+   width: 55px;
+   padding: 10px;
+   height: 60px;
+   margin-top: 2px;
+   border-radius: 10px;
+   margin-left: 50px;
+   margin-left: 1000px;
+   margin-top: -127px;
+
+}
+
+.dkey{
+   background-color: black;
+   width: 55px;
+   padding: 10px;
+   height: 60px;
+   border-radius: 10px;
+
+
+}
+.fkey{
+   background-color: black;
+   width: 55px;
+   padding: 10px;
+   height: 60px;
+   border-radius: 10px;  
+}
+.color{
+   color: #f0f0f0;
+   text-align: center;
+}
+.jump{
+   color: #f0f0f0;
+margin-top: -20px;
+font-size: 1;
+
+
+
+}
+.keycontain{
+   display: flex;
+   flex-direction: row;
+   margin-left: -60px;
+   margin-top: 5px;
+   gap: 2px;
+
+}
+.keycontainer{
+   display: flex;
+   flex-direction: row;
+   margin-top: 3px;
+   margin-left: -6px;
+   gap: 2px;
+ 
+
+}
+.left{
+   margin-left: 950px;
+}
+
+
+
+
